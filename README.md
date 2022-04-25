@@ -57,11 +57,13 @@ Other configuration can be decided by yourself, based on the instance being used
 ## Questions
 
  1. How long did you spend on this assessment in total?\
+ Ans: approx 2-3hours
  _
 
  2. What was the most difficult task?\
- _
+ Ans: Working with terraform file is comparitively difficult for me
 
  3. If you had an unlimited amount of time to complete this task, what would you have done differently?\
+ Ans: I will try to work on terraform file more deeply. 
  _
 
